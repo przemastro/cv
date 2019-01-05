@@ -1,14 +1,14 @@
 # My GitHub CV
 
 
-> I'm mastering mardown syntax right now
+> I'm mastering markdown syntax right now
 
-> I started working on second edition of Arqonia. Arqonia 2.0 - the next generation. Faster, better, cooler!
+> I started working on second edition of Arqonia. Arqonia 2.0 - the next generation. Faster, Better, Cooler!
 
 2019
 
 > My second project for Rolls-Royce (ILS) was pure Azure Data Warehouse one:
-https://github.com/przemastro/DataGenerator
+https://github.com/przemastro/DataGenerator. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career. 
 
 > I created Technical Tester training: 
 https://github.com/przemastro/TestingGlossary-Polish- and
@@ -16,15 +16,15 @@ https://github.com/przemastro/TestsingTraining-Polish-
 
 2018
 
-> My first project for Rolls-Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project. I had also chance to replce for few weeks BI developer and working with Tableau
+> My first project for Rolls-Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau
 
 > In my spare time I learned a bit of Android Programming and created my first android app:
 https://github.com/przemastro/SuperMemoPolaco 
 
 2017
  
-> Project Arqonia 1.0 is finished: https://github.com/przemastro/Arqonia-1.0
-It is a full operational proof of concept of astronomical fandom
+> Project Arqonia 1.0 is finished: https://github.com/przemastro/Arqonia-1.0.
+It is a fully operational proof of concept of astronomical fandom.
 I learned python as well as AngularJS. I understood how web application is built so I built my own.
  
 > Last two projects for Barclays and GFT: Eagle and Creds. For the second one I used framework written in C# which also used Specflow. I had also chance to create TeamCity jobs and work with Perforce
