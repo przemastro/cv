@@ -1,5 +1,5 @@
-# CV
-My GitHub CV
+# My GitHub CV
+
 
 > I'm mastering mardown syntax right now
 
