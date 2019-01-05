@@ -1,9 +1,9 @@
 # CV
 My GitHub CV
 
+> I'm mastering mardown syntax right now
 
-
-> I started working on second edition of Arqonia. Arqonia 2.0 the next generation. Faster, better, cooler
+> I started working on second edition of Arqonia. Arqonia 2.0 - the next generation. Faster, better, cooler!
 
 2019
 
@@ -11,7 +11,7 @@ My GitHub CV
 https://github.com/przemastro/DataGenerator
 
 > I created Technical Tester training: 
-https://github.com/przemastro/TestingGlossary-Polish-
+https://github.com/przemastro/TestingGlossary-Polish- and
 https://github.com/przemastro/TestsingTraining-Polish-
 
 2018
