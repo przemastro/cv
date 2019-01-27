@@ -1,6 +1,8 @@
 # My GitHub CV
 
 
+![Dashboard](https://github.com/przemastro/CV/blob/master/Career.PNG)
+
 > I'm mastering markdown syntax right now
 
 > I started working on second edition of Arqonia. Arqonia 2.0 - the next generation. Faster, Better, Cooler!
