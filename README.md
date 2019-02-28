@@ -65,7 +65,7 @@ https://github.com/przemastro/plsql-framework
 > Internship at Wikia. During that time I had first contact with OOP Java language as well as Selenium 1.0. Also learned basics of Software Testing 
 
 2011
-> For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in matlab which searched star pulsations in spectroscopic data: https://github.com/przemastro/master-thesis 
+> For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in matlab which searched star pulsations in spectroscopic data: https://github.com/przemastro/master-thesis-polish 
 
 > I studied Astronomy at the University of Poznan and Katholieke Universiteit Leuven. During that time I learned C and Fortran programming languages, mostly working in Linux environment
 
