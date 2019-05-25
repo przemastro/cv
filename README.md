@@ -31,6 +31,8 @@ I learned python as well as AngularJS. I understood how web application is built
  
 > Last two projects for Barclays and GFT: Eagle and Creds. For the second one I used framework written in C# which also used Specflow. I had also chance to create TeamCity jobs and work with Perforce
 
+> I managed group of testers in internal GFT project. We developed application for recruitment called GoForTesting :)
+
 2016
 
 > My GitHub is created
