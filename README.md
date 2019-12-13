@@ -1,7 +1,7 @@
 # My GitHub CV - status 2019/01/27
 
 
-![Dashboard](https://github.com/przemastro/CV/blob/master/Career.PNG)
+![Dashboard](https://github.com/przemastro/CV/blob/master/Career_2019.PNG)
 
 > I'm mastering markdown syntax right now
 
