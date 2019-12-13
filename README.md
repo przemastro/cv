@@ -1,4 +1,4 @@
-# My GitHub CV - status 2019/01/27
+# My GitHub CV - status 2019/12/13
 
 
 ![Dashboard](https://github.com/przemastro/CV/blob/master/Career_2019.PNG)
