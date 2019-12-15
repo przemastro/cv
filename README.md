@@ -6,10 +6,13 @@
 > I'm mastering markdown syntax right now
 
 > I wrote an article https://technology.gfieast.com/en/from-zero-to-test-automation-hero/
+See more on: https://github.com/przemastro/articles
 
 > I created template of a framework for test automation for several applications in Santander: https://github.com/przemastro/java-template
 
-> I wrote an article https://technology.gfieast.com/en/performance-analysis-of-tableau-reports-built-on-sql-server-and-mongodb-data-sources/ 
+> I wrote an article https://technology.gfieast.com/en/performance-analysis-of-tableau-reports-built-on-sql-server-and-mongodb-data-sources/
+See more on: https://github.com/przemastro/articles
+
 
 2019
 
