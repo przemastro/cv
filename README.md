@@ -3,8 +3,6 @@
 
 ![Dashboard](https://github.com/przemastro/CV/blob/master/Career_2019.PNG)
 
-> I'm mastering markdown syntax right now
-
 > I wrote an article https://technology.gfieast.com/en/from-zero-to-test-automation-hero/
 See more on: https://github.com/przemastro/articles
 
@@ -12,6 +10,8 @@ See more on: https://github.com/przemastro/articles
 
 > I wrote an article https://technology.gfieast.com/en/performance-analysis-of-tableau-reports-built-on-sql-server-and-mongodb-data-sources/
 See more on: https://github.com/przemastro/articles
+
+> I created and conducted workshop on performance testing: https://github.com/przemastro/performance-testing-training-polish
 
 
 2019
