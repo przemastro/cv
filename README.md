@@ -6,26 +6,26 @@
 > I wrote an article https://technology.gfieast.com/en/from-zero-to-test-automation-hero/
 See more on: https://github.com/przemastro/articles
 
-> I created template of a framework for test automation for several applications in Santander: https://github.com/przemastro/java-template
+> I created template of a framework for test automation for several applications in (Confidential) bank: (Ask me for link)
 
 > I wrote an article https://technology.gfieast.com/en/performance-analysis-of-tableau-reports-built-on-sql-server-and-mongodb-data-sources/
 See more on: https://github.com/przemastro/articles
 
-> I created and conducted workshop on performance testing: https://github.com/przemastro/performance-testing-training-polish
+> I created and conducted workshop on performance testing: (Ask me for link)
 
 
 2019
 
-> My second project for Rolls-Royce (ILS) was pure Azure Data Warehouse one:
-https://github.com/przemastro/python-sqlserver-data-generator. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career. 
+> My second project for (Confidential) Aviation Company was pure Azure Data Warehouse one:
+(Ask me for link). We were measuring how much time engine parts can last. So far the most scientific project in my IT Career. 
 
 > I created Technical Tester training: 
 https://github.com/przemastro/testing-glossary-polish and
-https://github.com/przemastro/testing-training-polish
+(Ask me for link)
 
 2018
 
-> My first project for Rolls-Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau
+> My first project for (Confidential) Aviation Company via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau
 
 > In my spare time I learned a bit of Android Programming and created my first android app:
 https://github.com/przemastro/super-memo-polaco
