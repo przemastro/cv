@@ -1,7 +1,11 @@
-# My GitHub CV - status 2019/12/13
+# My GitHub CV - status September 2020
 
 
-![Dashboard](https://github.com/przemastro/CV/blob/master/Career_2019.PNG)
+![Dashboard](https://github.com/przemastro/CV/blob/master/career_092020.PNG)
+
+> My first mobile project. I have created my first Test Centre (Ask me for link). This was done for (Confidential) Finnish biggest company via Espeo Software
+
+2020
 
 > I wrote an article https://technology.gfieast.com/en/from-zero-to-test-automation-hero/
 See more on: https://github.com/przemastro/articles
