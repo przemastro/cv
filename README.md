@@ -3,6 +3,10 @@
 
 ![Dashboard](https://github.com/przemastro/CV/blob/master/career_092020.PNG)
 
+2021
+
+> Dashboard of my 2020 achivements was created: https://github.com/przemastro/dashboard
+
 > My first mobile project. I have created my first Test Centre (Ask me for link). This was done for (Confidential) Finnish biggest company via Espeo Software
 
 2020
