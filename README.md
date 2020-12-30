@@ -19,17 +19,17 @@ See more on: https://github.com/przemastro/articles
 > I wrote an article https://technology.gfieast.com/en/performance-analysis-of-tableau-reports-built-on-sql-server-and-mongodb-data-sources/
 See more on: https://github.com/przemastro/articles
 
-> I created and conducted workshop on performance testing: (Ask me for link)
+> I created and conducted workshop on performance testing: https://github.com/przemastro/performance-testing-training-polish
 
 
 2019
 
 > My second project for (Confidential) Aviation Company was pure Azure Data Warehouse one:
-(Ask me for link). We were measuring how much time engine parts can last. So far the most scientific project in my IT Career. 
+https://github.com/przemastro/python-sqlserver-data-generator. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career. 
 
 > I created Technical Tester training: 
 https://github.com/przemastro/testing-glossary-polish and
-(Ask me for link)
+https://github.com/przemastro/testing-training-polish
 
 2018
 
