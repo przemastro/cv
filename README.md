@@ -3,6 +3,8 @@
 
 ![Dashboard](https://github.com/przemastro/CV/blob/master/career_092020.PNG)
 
+> Added some spreadsheets teamplates created for work and private ones: https://github.com/przemastro/spreadsheets
+
 2021
 
 > Dashboard of my 2020 achivements was created: https://github.com/przemastro/dashboard
@@ -85,6 +87,8 @@ https://github.com/przemastro/plsql-framework
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in matlab which searched star pulsations in spectroscopic data: https://github.com/przemastro/master-thesis-polish 
 
 > I studied Astronomy at the University of Poznan and Katholieke Universiteit Leuven. During that time I learned C and Fortran programming languages, mostly working in Linux environment
+
+> Summer Internhip at the Białków Observatory (Astrophysics and Heliophysics)
 
 > I studied History (1 year) at the University of Poznan. I learned a bit of latin
 
