@@ -3,6 +3,8 @@
 
 ![Dashboard](https://github.com/przemastro/CV/blob/master/career_092020.PNG)
 
+> Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution fo (Confidential) Stock Exchange.
+
 > Added some spreadsheets teamplates created for work and private ones: https://github.com/przemastro/spreadsheets
 
 2021
