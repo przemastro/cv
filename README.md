@@ -1,7 +1,7 @@
 # My GitHub CV - status December 2020
 
 
-![Dashboard](https://github.com/przemastro/CV/blob/master/career_092020.PNG)
+![Dashboard](https://github.com/przemastro/CV/blob/master/career_072021.PNG)
 
 > Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution fo (Confidential) Stock Exchange.
 
