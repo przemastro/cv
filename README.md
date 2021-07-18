@@ -13,6 +13,8 @@
 
 > My first mobile project. I have created my first Test Centre (Ask me for link). This was done for (Confidential) Finnish biggest company via Espeo Software
 
+> Added repository with documentation templates: https://github.com/przemastro/documentation-templates
+
 2020
 
 > I wrote an article https://technology.gfieast.com/en/from-zero-to-test-automation-hero/
