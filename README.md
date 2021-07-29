@@ -5,6 +5,9 @@ All repositories listed here were made from scratch after project was ended or m
 
 ![Dashboard](https://github.com/przemastro/CV/blob/master/career_072021.PNG)
 
+> I wrote an article https://espeo.eu/blog/test-center/?utm_campaign=test_center&utm_content=174542983&utm_medium=social&utm_source=linkedin&hss_channel=lcp-377200
+See more on: https://github.com/przemastro/articles
+
 > Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution fo (Confidential) Stock Exchange.
 
 > Added some spreadsheets teamplates created for work and private ones: https://github.com/przemastro/spreadsheets
