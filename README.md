@@ -5,6 +5,8 @@ All repositories listed here were made from scratch after project was ended or m
 
 ![Dashboard](https://github.com/przemastro/CV/blob/master/career_072021.PNG)
 
+> I wrote an article on Tableau API usage and Tableau test automation https://espeo.eu/blog/one-step-tableau-report-test-automation/?utm_source=linkedin&utm_medium=link&utm_campaign=test_automationblog See more on: https://github.com/przemastro/articles
+
 > I wrote an article https://espeo.eu/blog/test-center/?utm_campaign=test_center&utm_content=174542983&utm_medium=social&utm_source=linkedin&hss_channel=lcp-377200
 See more on: https://github.com/przemastro/articles
 
