@@ -24,12 +24,12 @@ See more on: https://github.com/przemastro/articles
 
 2020
 
-> I wrote an article https://technology.gfieast.com/en/from-zero-to-test-automation-hero/
+> I wrote an article https://technology.pl-inetum.group/pl/od-zera-do-automatyzera/
 See more on: https://github.com/przemastro/articles
 
 > I created template of a framework for test automation for several applications in (Confidential) bank: (Ask me for link)
 
-> I wrote an article https://technology.gfieast.com/en/performance-analysis-of-tableau-reports-built-on-sql-server-and-mongodb-data-sources/
+> I wrote an article https://technology.pl-inetum.group/pl/analiza-wydajnosci-raportow-tableau-zbudowanych-na-sql-server-i-mongodb/
 See more on: https://github.com/przemastro/articles
 
 > I created and conducted workshop on performance testing: https://github.com/przemastro/performance-testing-training-polish
