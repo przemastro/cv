@@ -1,16 +1,26 @@
-# My GitHub CV - status July 2021
+# My GitHub CV - status July 2022
 
 All repositories listed here were made from scratch after project was ended or my participation in the project was ended and are only demonstration vesrions of frameworks, tools and programms I did for the projects. This is not a client's code! 
 
 
-![Dashboard](https://github.com/przemastro/CV/blob/master/career_072021.PNG)
+![Dashboard](https://github.com/przemastro/cv/blob/master/career_072022.png)
+
+> I wrote an article on building data loader in python https://www.miquido.com/blog/build-test-data-loader/
+
+> I wrote an article on spreadsheed dashboard https://www.miquido.com/blog/test-results-dashboard-google-sheets/
+
+> I wrote an article on Cucumber features https://www.miquido.com/blog/cucumber-features/
+
+> I started project for (Confidential) via Miquido in Banking sector
+
+2022
 
 > I wrote an article on Tableau API usage and Tableau test automation https://espeo.eu/blog/one-step-tableau-report-test-automation/?utm_source=linkedin&utm_medium=link&utm_campaign=test_automationblog See more on: https://github.com/przemastro/articles
 
 > I wrote an article https://espeo.eu/blog/test-center/?utm_campaign=test_center&utm_content=174542983&utm_medium=social&utm_source=linkedin&hss_channel=lcp-377200
 See more on: https://github.com/przemastro/articles
 
-> Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution fo (Confidential) Stock Exchange.
+> Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution for (Confidential) Stock Exchange.
 
 > Added some spreadsheets teamplates created for work and private ones: https://github.com/przemastro/spreadsheets
 
