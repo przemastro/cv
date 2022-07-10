@@ -15,10 +15,9 @@ All repositories listed here were made from scratch after project was ended or m
 
 2022
 
-> I wrote an article on Tableau API usage and Tableau test automation https://espeo.eu/blog/one-step-tableau-report-test-automation/?utm_source=linkedin&utm_medium=link&utm_campaign=test_automationblog See more on: https://github.com/przemastro/articles
+> I wrote an article on Tableau API usage and Tableau test automation https://espeo.eu/blog/one-step-tableau-report-test-automation/
 
-> I wrote an article https://espeo.eu/blog/test-center/?utm_campaign=test_center&utm_content=174542983&utm_medium=social&utm_source=linkedin&hss_channel=lcp-377200
-See more on: https://github.com/przemastro/articles
+> I wrote an article on my little test center https://espeo.eu/blog/test-center/
 
 > Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution for (Confidential) Stock Exchange.
 
@@ -40,7 +39,6 @@ See more on: https://github.com/przemastro/articles
 > I created template of a framework for test automation for several applications in (Confidential) bank: (Ask me for link)
 
 > I wrote an article https://technology.pl-inetum.group/pl/analiza-wydajnosci-raportow-tableau-zbudowanych-na-sql-server-i-mongodb/
-See more on: https://github.com/przemastro/articles
 
 > I created and conducted workshop on performance testing: https://github.com/przemastro/performance-testing-training-polish
 
