@@ -11,7 +11,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 > I wrote an article on Cucumber features https://www.miquido.com/blog/cucumber-features/
 
-> I started project for (Confidential) via Miquido in Banking sector
+> I started project for (Confidential) via Miquido in Banking sector. I created set of templates for tests automation: Mobile, API, Performance
 
 2022
 
