@@ -1,9 +1,18 @@
 # My GitHub CV - status July 2022
 
+Important!
 All repositories listed here were made from scratch after project was ended or my participation in the project was ended and are only demonstration vesrions of frameworks, tools and programms I did for the projects. This is not a client's code! 
 
 
-![Dashboard](https://github.com/przemastro/cv/blob/master/career_072022.png)
+![Dashboard](https://github.com/przemastro/cv/blob/master/career_072023.png)
+
+> 12 years have passed since I stared testing and tests automation and a full decade of tests automation experience 🎂 . I still have something to tell.
+
+> I designed and performed tests of chatGPT usefulness in IT testing. Ask me for the link to the results. 
+
+> I started and completed project for (Confidential) via Miquido in polish Oil and Gas industry. I designed and created tests automation, which consisted of features such as integration with SauceLabs, QR codes scanning etc.
+
+2023
 
 > I wrote an article on building data loader in python https://www.miquido.com/blog/build-test-data-loader/
 
@@ -19,7 +28,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 > I wrote an article on my little test center https://espeo.eu/blog/test-center/
 
-> Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution for (Confidential) Stock Exchange.
+> Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution for London Stock Exchange.
 
 > Added some spreadsheets teamplates created for work and private ones: https://github.com/przemastro/spreadsheets
 
@@ -27,7 +36,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 > Dashboard of my 2020 achivements was created: https://github.com/przemastro/dashboard
 
-> My first mobile project. I have created my first Test Centre (Ask me for link). This was done for (Confidential) Finnish biggest company via Espeo Software
+> My first mobile project. I have created my first Test Centre (Ask me for link). This was done for Oikotie Finnish biggest company via Espeo Software. In fact Oikotie is just an app and now I think it is owned by Schibsted.
 
 > Added repository with documentation templates: https://github.com/przemastro/documentation-templates
 
@@ -45,7 +54,7 @@ See more on: https://github.com/przemastro/articles
 
 2019
 
-> My second project for (Confidential) Aviation Company was pure Azure Data Warehouse one:
+> My second project for Rolls Royce was pure Azure Data Warehouse one:
 https://github.com/przemastro/python-sqlserver-data-generator. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career. 
 
 > I created Technical Tester training: 
@@ -54,7 +63,7 @@ https://github.com/przemastro/testing-training-polish
 
 2018
 
-> My first project for (Confidential) Aviation Company via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau
+> My first project for Rolls Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau
 
 > In my spare time I learned a bit of Android Programming and created my first android app:
 https://github.com/przemastro/super-memo-polaco
