@@ -1,6 +1,6 @@
-# My GitHub CV - status July 2022
+# My GitHub CV - status July 2023
 
-Important!
+## Important!
 All repositories listed here were made from scratch after project was ended or my participation in the project was ended and are only demonstration vesrions of frameworks, tools and programms I did for the projects. This is not a client's code! 
 
 
