@@ -6,8 +6,6 @@ All repositories listed here were made from scratch after project was ended or m
 
 ![Dashboard](https://github.com/przemastro/cv/blob/master/career_072023.png)
 
-> 12 years have passed since I stared testing and tests automation and a full decade of tests automation experience 🎂 . I still have something to tell.
-
 > I designed and performed tests of chatGPT usefulness in IT testing. Ask me for the link to the results. 
 
 > I started and completed project for (Confidential) via Miquido in polish Oil and Gas industry. I designed and created tests automation, which consisted of features such as integration with SauceLabs, QR codes scanning etc.
