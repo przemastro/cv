@@ -110,12 +110,35 @@ https://github.com/przemastro/plsql-framework
 > Internship at Wikia. During that time I had first contact with OOP Java language as well as Selenium 1.0. Also learned basics of Software Testing 
 
 2011
+
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in matlab which searched star pulsations in spectroscopic data: https://github.com/przemastro/master-thesis-polish 
 
-> I studied Astronomy at the University of Poznan and Katholieke Universiteit Leuven. During that time I learned C and Fortran programming languages, mostly working in Linux environment
+> I studied Astronomy at the University of Poznan and Katholieke Universiteit Leuven. During that time I learned C and Fortran programming languages, mostly working in Linux environment. "The C Programming Language" written by Kernighan and Rithchie shaped me for the rest of my life.
 
 > Summer Internhip at the Białków Observatory (Astrophysics and Heliophysics)
 
 > I studied History (1 year) at the University of Poznan. I learned a bit of latin
 
 2003
+
+> Dot-com bubble happened
+
+> I got my first PC with Pentium II 350 MHz processor 
+
+> I learnt Turbo Pascal
+
+> First Java version is released
+
+> Windows 95 is released
+
+> Dream Team wins olympic gold medal
+
+> My first contact with Commodore 64
+
+> Collapse of the Iron Curtin
+
+> Chernobyl accident happened. It is the first thing I remembered, especially the taste of Lugol's iodine.
+
+> I was born
+
+1984
