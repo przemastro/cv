@@ -6,6 +6,12 @@ All repositories listed here were made from scratch after project was ended or m
 
 ![Dashboard](https://github.com/przemastro/cv/blob/master/career_072023.png)
 
+> I turned 40
+
+2024
+
+> I started project for (Confidential) company in the audio industry via Miquido. My first pure JS project. 
+
 > I designed and performed tests of chatGPT usefulness in IT testing. Ask me for the link to the results. 
 
 > I started and completed project for (Confidential) via Miquido in polish Oil and Gas industry. I designed and created tests automation, which consisted of features such as integration with SauceLabs, QR codes scanning etc.
@@ -84,6 +90,8 @@ I learned python as well as AngularJS. I understood how web application is built
 
 2015
 
+> I turned 30
+
 > Compliance project for Barclays Investment Bank. Another framework which used dynamic reports and REST Assured: https://github.com/przemastro/java-rest-assured-framework.
 This was my first project during which I led few testers. 
 
@@ -111,33 +119,39 @@ https://github.com/przemastro/plsql-framework
 
 2011
 
-> For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in matlab which searched star pulsations in spectroscopic data: https://github.com/przemastro/master-thesis-polish 
+> For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data: https://github.com/przemastro/master-thesis-polish 
 
-> I studied Astronomy at the University of Poznan and Katholieke Universiteit Leuven. During that time I learned C and Fortran programming languages, mostly working in Linux environment. "The C Programming Language" written by Kernighan and Rithchie shaped me for the rest of my life.
+> I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
 
 > Summer Internhip at the Białków Observatory (Astrophysics and Heliophysics)
 
+> I turned 20 
+
 > I studied History (1 year) at the University of Poznan. I learned a bit of latin
+
+> I started studies in the field of Astronomy at the University of Poznan. During that time I learned C and Fortran programming languages, mostly working in Linux environment. "The C Programming Language" written by Kernighan and Rithchie shaped me for the rest of my life.
 
 2003
 
 > Dot-com bubble happened
 
-> I got my first PC with Pentium II 350 MHz processor 
-
 > I learnt Turbo Pascal
+
+> I got my first PC with Pentium II 350 MHz processor 
 
 > First Java version is released
 
 > Windows 95 is released
 
-> Dream Team wins olympic gold medal
+> I turned 10
+
+> Dream Team wins olympic gold medal in Barcelona
 
 > My first contact with Commodore 64
 
 > Collapse of the Iron Curtin
 
-> Chernobyl accident happened. It is the first thing I remembered, especially the taste of Lugol's iodine.
+> Chernobyl accident happened. It is the first thing I remembered, somehow
 
 > I was born
 
