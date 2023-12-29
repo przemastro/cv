@@ -4,7 +4,7 @@
 All repositories listed here were made from scratch after project was ended or my participation in the project was ended and are only demonstration vesrions of frameworks, tools and programms I did for the projects. This is not a client's code! 
 
 
-![Dashboard](https://github.com/przemastro/cv/blob/master/career_072023.png)
+![Dashboard](https://github.com/przemastro/cv/blob/master/career_122023.png)
 
 > I turned 40
 
@@ -137,21 +137,19 @@ https://github.com/przemastro/plsql-framework
 
 > I learnt Turbo Pascal
 
-> I got my first PC with Pentium II 350 MHz processor 
+> I got my first PC with Pentium II 350 MHz processor and Windows 98
 
 > First Java version is released
 
 > Windows 95 is released
 
-> I turned 10
+> My first contact with Macintosh Plus
 
-> Dream Team wins olympic gold medal in Barcelona
+> I turned 10
 
 > My first contact with Commodore 64
 
-> Collapse of the Iron Curtin
-
-> Chernobyl accident happened. It is the first thing I remembered, somehow
+> C++ is introduced
 
 > I was born
 
