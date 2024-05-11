@@ -216,10 +216,8 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 
 <details>
   <summary>1985</summary>
-  -
+  #
  
 > I was born on the 13th of October 1984
-
-</details>
 
 </details>
