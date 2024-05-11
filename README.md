@@ -78,8 +78,9 @@ See more on: https://github.com/przemastro/articles
 <details>
   <summary>2019</summary>
 
-> My second project for Rolls Royce was pure Azure Data Warehouse one:
-https://github.com/przemastro/python-sqlserver-data-generator. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career. 
+> My second project for Rolls Royce was pure Azure Data Warehouse one. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career.
+- Technology stack: Python, Azure Data Warehouse, QT4
+- App Template: https://github.com/przemastro/python-sqlserver-data-generator
 
 > I created Technical Tester training: 
 https://github.com/przemastro/testing-glossary-polish and
@@ -91,24 +92,28 @@ https://github.com/przemastro/testing-training-polish
   <summary>2018</summary>
 
 > My first project for Rolls Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau:
-
-https://github.com/przemastro/csharp-selenium-framework-template
+- Technology stack: C#, Nunit, SQL Server, Nuget, Azure
 
 > In my spare time I learned a bit of Android Programming and created my first android app:
-https://github.com/przemastro/super-memo-polaco
+- Technology stack: Java, Maven
+- App: https://github.com/przemastro/super-memo-polaco
 
 </details>
 
 <details>
   <summary>2017</summary>
  
-> Project Arqonia 1.0 is finished: https://github.com/przemastro/arqonia-1.0.
-It is a fully operational proof of concept of astronomical fandom.
-I learned python as well as AngularJS. I understood how web application is built so I built my own.
+> Private Project Arqonia 1.0 is finished: 
+It is a fully operational proof of concept of astronomical fandom. I learned python as well as AngularJS. I understood how web application is built so I built my own.
+- Technology stack: Python, Flask, Angularjs, Bootstrap, HTML
+- App: https://github.com/przemastro/arqonia-1.0.
  
 > Last two projects for Barclays and GFT: Eagle and Creds. For the second one I used framework written in C# which also used Specflow. I had also chance to create TeamCity jobs and work with Perforce
+- Technology stack: C#, Specflow, TeamCity, Perforce, JiraTemplate
+- Framework Template: https://github.com/przemastro/csharp-selenium-framework-template
 
 > I managed group of testers in internal GFT project. We developed application for recruitment called GoForTesting :)
+- Technology stack: Python, Flask, Trello, Git
 
 </details>
 
@@ -117,7 +122,9 @@ I learned python as well as AngularJS. I understood how web application is built
 
 > My GitHub is created
 
-> Another project for Barclays called Barclaycard - Juno Exp. This time pure Database project. In fact it was SQL Server DataWarehouse: https://github.com/przemastro/tsql-framework-template
+> Another project for Barclays called Barclaycard - Juno Exp. This time pure Database project. In fact it was SQL Server DataWarehouse:
+- Technology stack: Jira, SQL Server, Git
+- Framework Template: https://github.com/przemastro/tsql-framework-template
 
 </details>
 
@@ -126,26 +133,30 @@ I learned python as well as AngularJS. I understood how web application is built
 
 > I turned 30
 
-> Compliance project for Barclays Investment Bank. Another framework which used dynamic reports and REST Assured: https://github.com/przemastro/java-restassured-framework-template.
-This was my first project during which I led few testers. 
+> Compliance project for Barclays Investment Bank. Another framework which used dynamic reports and REST Assured: This was my first project during which I led few testers.
+- Technology stack: Java, Maven, Selenium, Testng, Dynamic Reports, Perforce, RestAssured, Jira
+- Framework Template: https://github.com/przemastro/java-restassured-framework-template
 
 > Rule CV was my first project for Rule Financial aka GFT. I was testing UI and backend side (SOAP UI). But I also had opportunity to perform some security scans using OWASP ZAP and configure Jenkins:
-https://github.com/przemastro/java-selenium-testlink-framework-template
+- Technology stack: Java, Maven, Selenium, Testng, Jira, Testlink, OWASP ZAP, Jenkins, Git
+- Framework Template: https://github.com/przemastro/java-selenium-testlink-framework-template
 
 </details>
 
 <details>
   <summary>2014</summary>
 
-> MIA was my first SCRUM project during which I learned PL/SQL. I was testing data migration: 
-https://github.com/przemastro/plsql-framework-template
+> MIA was my first SCRUM project during which I learned PL/SQL. I was testing data migration:
+- Technology stack: PL/SQL, HTML, Jira
+- Framework Template: https://github.com/przemastro/plsql-framework-template
 
 </details>
 
 <details>
   <summary>2013</summary>
 
-> I started working for Roche as contractor via Sii Poland. GLIDE and TMS were my first big projects. I started using HP QC, Jira and Oracle SQL on a daily basis  
+> I started working for Roche as contractor via Sii Poland. GLIDE and TMS were my first big projects.
+- Technology stack: HP QC, Jira, Oracle SQL
 
 > Worked for XTM International. I created my first framework for test automation in Java and Selenium 1.0
 
@@ -167,7 +178,7 @@ https://github.com/przemastro/plsql-framework-template
 
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data:
 - Technology stack: Matlab, LaTex
-- My thesis: https://github.com/przemastro/master-thesis-polish 
+- My thesis: [https://github.com/przemastro/master-thesis-polish ](https://github.com/przemastro/master-thesis-polish/blob/master/master-thesis.pdf)
   
 > I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
 
