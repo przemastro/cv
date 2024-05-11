@@ -8,7 +8,8 @@ All repositories listed here were made from scratch after project was ended or m
 
 <details>
   <summary>2025</summary>
-  
+
+###  
 > I turned 40
 
 </details>
@@ -16,6 +17,7 @@ All repositories listed here were made from scratch after project was ended or m
 <details>
   <summary>2024</summary>
 
+###
 > I started project for (Confidential) company in the audio industry via Miquido. My first pure JS project. 
 
 > I designed and performed tests of chatGPT usefulness in IT testing. Ask me for the link to the results. 
@@ -27,6 +29,7 @@ All repositories listed here were made from scratch after project was ended or m
 <details>
   <summary>2023</summary>
 
+###
 > I wrote an article on building data loader in python https://www.miquido.com/blog/build-test-data-loader/
 
 > I wrote an article on spreadsheed dashboard https://www.miquido.com/blog/test-results-dashboard-google-sheets/
@@ -40,6 +43,7 @@ All repositories listed here were made from scratch after project was ended or m
 <details>
   <summary>2022</summary>
 
+###
 > I wrote an article on Tableau API usage and Tableau test automation https://espeo.eu/blog/one-step-tableau-report-test-automation/
 
 > I wrote an article on my little test center https://espeo.eu/blog/test-center/
@@ -53,6 +57,7 @@ All repositories listed here were made from scratch after project was ended or m
 <details>
   <summary>2021</summary>
 
+###
 > Dashboard of my 2020 achivements was created: https://github.com/przemastro/dashboard
 
 > My first mobile project. I have created my first Test Centre (Ask me for link). This was done for Sanoma - Finnish company via Espeo Software.
@@ -64,6 +69,7 @@ All repositories listed here were made from scratch after project was ended or m
 <details>
   <summary>2020</summary>
 
+###
 > I wrote an article https://technology.pl-inetum.group/pl/od-zera-do-automatyzera/
 See more on: https://github.com/przemastro/articles
 
@@ -78,6 +84,7 @@ See more on: https://github.com/przemastro/articles
 <details>
   <summary>2019</summary>
 
+###
 > My second project for Rolls Royce was pure Azure Data Warehouse one. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career.
 - Technology stack: Python, Azure Data Warehouse, QT4
 - App Template: https://github.com/przemastro/python-sqlserver-data-generator
@@ -91,6 +98,7 @@ https://github.com/przemastro/testing-training-polish
 <details>
   <summary>2018</summary>
 
+###
 > My first project for Rolls Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau:
 - Technology stack: C#, Nunit, SQL Server, Nuget, Azure
 
@@ -102,8 +110,9 @@ https://github.com/przemastro/testing-training-polish
 
 <details>
   <summary>2017</summary>
- 
-> Private Project Arqonia 1.0 is finished: 
+
+### 
+> Private Project Arqonia 1.0 is completed: 
 It is a fully operational proof of concept of astronomical fandom. I learned python as well as AngularJS. I understood how web application is built so I built my own.
 - Technology stack: Python, Flask, Angularjs, Bootstrap, HTML
 - App: https://github.com/przemastro/arqonia-1.0.
@@ -120,6 +129,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 <details>
   <summary>2016</summary>
 
+###
 > My GitHub is created
 
 > Another project for Barclays called Barclaycard - Juno Exp. This time pure Database project. In fact it was SQL Server DataWarehouse:
@@ -131,6 +141,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 <details>
   <summary>2015</summary>
 
+###
 > I turned 30
 
 > Compliance project for Barclays Investment Bank. Another framework which used dynamic reports and REST Assured: This was my first project during which I led few testers.
@@ -146,6 +157,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 <details>
   <summary>2014</summary>
 
+###
 > MIA was my first SCRUM project during which I learned PL/SQL. I was testing data migration:
 - Technology stack: PL/SQL, HTML, Jira
 - Framework Template: https://github.com/przemastro/plsql-framework-template
@@ -155,6 +167,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 <details>
   <summary>2013</summary>
 
+###
 > I started working for Roche as contractor via Sii Poland. GLIDE and TMS were my first big projects.
 - Technology stack: HP QC, Jira, Oracle SQL
 
@@ -167,6 +180,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 <details>
   <summary>2012</summary>
 
+###
 > Did a lot of Freelance work via Utest. Mostly manual exploratory testing. I was testing applications for companies like Autodesk, Facebook, C&A and many more.
 
 > Internship at Wikia. During that time I had first contact with OOP Java language as well as Selenium 1.0. Also learned basics of Software Testing
@@ -176,9 +190,10 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 <details>
   <summary>2011</summary>
 
+###
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data:
 - <span style="color:#636c76;"> Technology stack: Matlab, LaTex </span>
-- <span style="color:#636c76;"> My thesis: [https://github.com/przemastro/master-thesis-polish ](https://github.com/przemastro/master-thesis-polish/blob/master/master-thesis.pdf) </span>
+- My thesis: [https://github.com/przemastro/master-thesis-polish ](https://github.com/przemastro/master-thesis-polish/blob/master/master-thesis.pdf)
   
 > I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
 
@@ -194,6 +209,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 <details>
   <summary>2003</summary>
 
+###
 > Dot-com bubble happened
 
 > I learnt Turbo Pascal
