@@ -7,23 +7,6 @@ All repositories listed here were made from scratch after project was ended or m
 ![Dashboard](https://github.com/przemastro/cv/blob/master/career_122023.png)
 
 > I turned 40
->
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
 
 2024
 
@@ -57,7 +40,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 > Dashboard of my 2020 achivements was created: https://github.com/przemastro/dashboard
 
-> My first mobile project. I have created my first Test Centre (Ask me for link). This was done for Oikotie Finnish biggest company via Espeo Software. In fact Oikotie is just an app and now I think it is owned by Schibsted.
+> My first mobile project. I have created my first Test Centre (Ask me for link). This was done for Sanoma - Finnish company via Espeo Software.
 
 > Added repository with documentation templates: https://github.com/przemastro/documentation-templates
 
@@ -66,7 +49,7 @@ All repositories listed here were made from scratch after project was ended or m
 > I wrote an article https://technology.pl-inetum.group/pl/od-zera-do-automatyzera/
 See more on: https://github.com/przemastro/articles
 
-> I created template of a framework for test automation for several applications in (Confidential) bank: (Ask me for link)
+> I created template of a framework for test automation for several applications in Santander bank: (Ask me for link)
 
 > I wrote an article https://technology.pl-inetum.group/pl/analiza-wydajnosci-raportow-tableau-zbudowanych-na-sql-server-i-mongodb/
 
@@ -84,7 +67,9 @@ https://github.com/przemastro/testing-training-polish
 
 2018
 
-> My first project for Rolls Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau
+> My first project for Rolls Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau:
+
+https://github.com/przemastro/csharp-selenium-framework-template
 
 > In my spare time I learned a bit of Android Programming and created my first android app:
 https://github.com/przemastro/super-memo-polaco
@@ -103,22 +88,22 @@ I learned python as well as AngularJS. I understood how web application is built
 
 > My GitHub is created
 
-> Another project for Barclays called Barclaycard - Juno Exp. This time pure Database project. In fact it was SQL Server DataWarehouse: https://github.com/przemastro/tsql-framework
+> Another project for Barclays called Barclaycard - Juno Exp. This time pure Database project. In fact it was SQL Server DataWarehouse: https://github.com/przemastro/tsql-framework-template
 
 2015
 
 > I turned 30
 
-> Compliance project for Barclays Investment Bank. Another framework which used dynamic reports and REST Assured: https://github.com/przemastro/java-rest-assured-framework.
+> Compliance project for Barclays Investment Bank. Another framework which used dynamic reports and REST Assured: https://github.com/przemastro/java-restassured-framework-template.
 This was my first project during which I led few testers. 
 
 > Rule CV was my first project for Rule Financial aka GFT. I was testing UI and backend side (SOAP UI). But I also had opportunity to perform some security scans using OWASP ZAP and configure Jenkins:
-https://github.com/przemastro/java-selenium-testlink-framework
+https://github.com/przemastro/java-selenium-testlink-framework-template
 
 2014
 
 > MIA was my first SCRUM project during which I learned PL/SQL. I was testing data migration: 
-https://github.com/przemastro/plsql-framework
+https://github.com/przemastro/plsql-framework-template
 
 2013
 
@@ -136,8 +121,15 @@ https://github.com/przemastro/plsql-framework
 
 2011
 
-> For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data: https://github.com/przemastro/master-thesis-polish 
-
+> For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data:
+<details>
+  <summary>Technology stack</summary>
+  Matlab, LaTex
+</details>
+<details>
+  <summary>My thesis</summary>
+  https://github.com/przemastro/master-thesis-polish 
+</details>
 > I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
 
 > Summer Internhip at the Białków Observatory (Astrophysics and Heliophysics)
