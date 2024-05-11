@@ -121,6 +121,7 @@ https://github.com/przemastro/plsql-framework-template
 
 <details>
   <summary>2011</summary>
+ 
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched 
   stellar pulsations in spectroscopic data:
 
@@ -145,7 +146,8 @@ https://github.com/przemastro/plsql-framework-template
 > I started studies in the field of Astronomy at the University of Poznan. During that time I learned C and Fortran programming languages, mostly working in Linux environment. "The C Programming Language" written by Kernighan and Rithchie shaped me for the rest of my life.
 </details>  
 
-2003
+<details>
+  <summary>2003</summary>
 
 > Dot-com bubble happened
 
@@ -165,6 +167,11 @@ https://github.com/przemastro/plsql-framework-template
 
 > C++ is introduced
 
-> I was born
+</details>
 
-1984
+<details>
+  <summary>1985</summary>
+ 
+> I was born on the 13th of october 1984
+
+</details>
