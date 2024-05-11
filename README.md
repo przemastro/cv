@@ -177,8 +177,8 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
   <summary>2011</summary>
 
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data:
-- Technology stack: Matlab, LaTex
-- My thesis: [https://github.com/przemastro/master-thesis-polish ](https://github.com/przemastro/master-thesis-polish/blob/master/master-thesis.pdf)
+- <span style="color:#636c76;">Technology stack: Matlab, LaTex</span>
+- <span style="color:#636c76;">My thesis: [https://github.com/przemastro/master-thesis-polish ](https://github.com/przemastro/master-thesis-polish/blob/master/master-thesis.pdf)</span>
   
 > I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
 
@@ -216,8 +216,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 
 <details>
   <summary>1985</summary>
-  #
- 
+  ###
 > I was born on the 13th of October 1984
 
 </details>
