@@ -7,6 +7,23 @@ All repositories listed here were made from scratch after project was ended or m
 ![Dashboard](https://github.com/przemastro/cv/blob/master/career_122023.png)
 
 > I turned 40
+>
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 2024
 
