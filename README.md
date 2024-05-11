@@ -165,9 +165,10 @@ https://github.com/przemastro/plsql-framework-template
 <details>
   <summary>2011</summary>
 
- 
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data:
+
      * Technology stack: Matlab, LaTex
+     
      * My thesis: https://github.com/przemastro/master-thesis-polish 
   
 > I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
