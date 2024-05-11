@@ -121,7 +121,7 @@ https://github.com/przemastro/plsql-framework-template
 
 <details>
   <summary>2011</summary>
-  > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched 
+> For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched 
   stellar pulsations in spectroscopic data:
 
   <details>
@@ -132,8 +132,8 @@ https://github.com/przemastro/plsql-framework-template
     <summary>My thesis</summary>
     https://github.com/przemastro/master-thesis-polish 
   </details>
-</details>  
 
+  
 > I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
 
 > Summer Internhip at the Białków Observatory (Astrophysics and Heliophysics)
@@ -143,6 +143,7 @@ https://github.com/przemastro/plsql-framework-template
 > I studied History (1 year) at the University of Poznan. I learned a bit of latin
 
 > I started studies in the field of Astronomy at the University of Poznan. During that time I learned C and Fortran programming languages, mostly working in Linux environment. "The C Programming Language" written by Kernighan and Rithchie shaped me for the rest of my life.
+</details>  
 
 2003
 
