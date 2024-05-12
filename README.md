@@ -26,7 +26,7 @@
 - Framework Template (Appium): https://github.com/przemastro/javascript-appium-saucelabs-framework-template
 
 > I designed and performed tests of chatGPT usefulness in IT testing.
-- Article: Ask me for the link to the results. 
+- Article: https://github.com/przemastro/AI_tests
 
 > I started and completed project for (Confidential) via Miquido in polish Oil and Gas industry. I designed and created tests automation, which consisted of features such as integration with SauceLabs, QR codes scanning etc.
 - Technology Stack: Kotlin, RestAssured, JWT, Appium, Allure, GitlabCI, Cucumber, Saucelabs, Jira
