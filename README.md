@@ -18,11 +18,17 @@ All repositories listed here were made from scratch after project was ended or m
   <summary>2024</summary>
 
 ###
-> I started project for (Confidential) company in the audio industry via Miquido. My first pure JS project. 
+> I started project for (Confidential) company in the audio industry via Miquido. My first pure JS project.
+- Technology Stack: Javascript, Appium, Allure, GitlabCI, Cypress, Mocha, Saucelabs
+- Framework Template (Cypress): Ask me for the access
+- Framework Template (Appium): Ask me for the access
 
-> I designed and performed tests of chatGPT usefulness in IT testing. Ask me for the link to the results. 
+> I designed and performed tests of chatGPT usefulness in IT testing.
+- Article: Ask me for the link to the results. 
 
 > I started and completed project for (Confidential) via Miquido in polish Oil and Gas industry. I designed and created tests automation, which consisted of features such as integration with SauceLabs, QR codes scanning etc.
+- Technology Stack: Kotlin, RestAssured, JWT, Appium, Allure, GitlabCI, Cucumber, Saucelabs, Jira
+- Framework Template: Ask me for the access
 
 </details>
 
@@ -30,13 +36,20 @@ All repositories listed here were made from scratch after project was ended or m
   <summary>2023</summary>
 
 ###
-> I wrote an article on building data loader in python https://www.miquido.com/blog/build-test-data-loader/
+> I wrote an article on building data loader in python
+- Article: https://www.miquido.com/blog/build-test-data-loader/
 
-> I wrote an article on spreadsheed dashboard https://www.miquido.com/blog/test-results-dashboard-google-sheets/
+> I wrote an article on spreadsheed dashboard:
+- Article: https://www.miquido.com/blog/test-results-dashboard-google-sheets/
 
-> I wrote an article on Cucumber features https://www.miquido.com/blog/cucumber-features/
+> I wrote an article on Cucumber features:
+- Article: https://www.miquido.com/blog/cucumber-features/
+- Framework Template: https://github.com/przemastro/java-cucumber-framework-template
 
 > I started project for (Confidential) via Miquido in Banking sector. I created set of templates for tests automation: Mobile, API, Performance
+- Technology Stack: Kotlin, RestAssured, Locust, Appium, Allure, GitlabCI, Cucumber, Jira
+- Framework Template (Performance): Ask me for the access
+- Framework Template (Wiremock): Ask me for the access
 
 </details>
 
@@ -44,13 +57,19 @@ All repositories listed here were made from scratch after project was ended or m
   <summary>2022</summary>
 
 ###
-> I wrote an article on Tableau API usage and Tableau test automation https://espeo.eu/blog/one-step-tableau-report-test-automation/
+> I wrote an article on Tableau API usage and Tableau test automation:
+- Article: https://espeo.eu/blog/one-step-tableau-report-test-automation/
 
-> I wrote an article on my little test center https://espeo.eu/blog/test-center/
+> I wrote an article on my little test center:
+- Article: https://espeo.eu/blog/test-center/
 
-> Another project another testing framework (Ask me for link). This was first fully cloud (AWS) based project and testing solution for London Stock Exchange.
+> Another project another testing framework. This was first fully cloud (AWS) based project and testing solution for London Stock Exchange.
+- Technology Stack: Kotlin, Tableau, AWS S3, Snowflake, Jira, Serenity Reports, Cucumber
+- Framework Template: Ask me for the access
 
-> Added some spreadsheets teamplates created for work and private ones: https://github.com/przemastro/spreadsheets
+> Added some spreadsheets teamplates created for work and private ones:
+- Technology Stack: Google SpreadSheets
+- Documentation Repository: https://github.com/przemastro/spreadsheets
 
 </details>
 
@@ -58,11 +77,16 @@ All repositories listed here were made from scratch after project was ended or m
   <summary>2021</summary>
 
 ###
-> Dashboard of my 2020 achivements was created: https://github.com/przemastro/dashboard
+> Dashboard of my 2020 achivements was created:
+- Technology Stack: Python, HTML
+- App: https://github.com/przemastro/dashboard
 
-> My first mobile project. I have created my first Test Centre (Ask me for link). This was done for Sanoma - Finnish company via Espeo Software.
+> My first mobile project. I have created my first Test Centre. This was done for Sanoma - Finnish company via Espeo Software.
+- Technology Stack: Kotlin, Open STF, RestAssured, MongoDB, Appium, Jira, Allure, Cucumber
+- Framework Template: Ask me for the access
 
-> Added repository with documentation templates: https://github.com/przemastro/documentation-templates
+> Added repository with documentation templates:
+- Documentation Repository: https://github.com/przemastro/documentation-templates
 
 </details>
 
@@ -70,14 +94,18 @@ All repositories listed here were made from scratch after project was ended or m
   <summary>2020</summary>
 
 ###
-> I wrote an article https://technology.pl-inetum.group/pl/od-zera-do-automatyzera/
-See more on: https://github.com/przemastro/articles
+> I wrote an article on test automation
+- Article: https://technology.pl-inetum.group/pl/od-zera-do-automatyzera/
 
-> I created template of a framework for test automation for several applications in Santander bank: (Ask me for link)
+> I created template of a framework for test automation for several applications in Santander bank:
+- Technology Stack: Java, Maven, RestAssuerd, Jenkins, Jira
+- Framework Template: Ask me for the access
 
-> I wrote an article https://technology.pl-inetum.group/pl/analiza-wydajnosci-raportow-tableau-zbudowanych-na-sql-server-i-mongodb/
+> I wrote an article on Tableau reports performance
+- Article: https://technology.pl-inetum.group/pl/analiza-wydajnosci-raportow-tableau-zbudowanych-na-sql-server-i-mongodb/
 
-> I created and conducted workshop on performance testing: https://github.com/przemastro/performance-testing-training-polish
+> I created and conducted workshop on performance testing:
+- Training Repository: https://github.com/przemastro/performance-testing-training-polish
 
 </details>
 
@@ -86,12 +114,12 @@ See more on: https://github.com/przemastro/articles
 
 ###
 > My second project for Rolls Royce was pure Azure Data Warehouse one. We were measuring how much time engine parts can last. So far the most scientific project in my IT Career.
-- Technology stack: Python, Azure Data Warehouse, QT4
+- Technology Stack: Python, Azure Data Warehouse, QT4
 - App Template: https://github.com/przemastro/python-sqlserver-data-generator
 
-> I created Technical Tester training: 
-https://github.com/przemastro/testing-glossary-polish and
-https://github.com/przemastro/testing-training-polish
+> I created Technical Tester training:
+- Glossary Repository: https://github.com/przemastro/testing-glossary-polish
+- Training Repository: https://github.com/przemastro/testing-training-polish
 
 </details>
 
@@ -100,10 +128,10 @@ https://github.com/przemastro/testing-training-polish
 
 ###
 > My first project for Rolls Royce via Impaq. I worked as a QA, Product Owner and Team Lead having chance to coordinade several developers and testers. It was nice experience but I prefer more creative work. It was .Net Azure project for Aircraft Engines diagnostic. I had also chance to repalce for few weeks BI developer and working with Tableau:
-- Technology stack: C#, Nunit, SQL Server, Nuget, Azure
+- Technology Stack: C#, Nunit, SQL Server, Nuget, Azure
 
 > In my spare time I learned a bit of Android Programming and created my first android app:
-- Technology stack: Java, Maven
+- Technology Stack: Java, Maven
 - App: https://github.com/przemastro/super-memo-polaco
 
 </details>
@@ -114,15 +142,15 @@ https://github.com/przemastro/testing-training-polish
 ### 
 > Private Project Arqonia 1.0 is completed: 
 It is a fully operational proof of concept of astronomical fandom. I learned python as well as AngularJS. I understood how web application is built so I built my own.
-- Technology stack: Python, Flask, Angularjs, Bootstrap, HTML
+- Technology Stack: Python, Flask, Angularjs, Bootstrap, HTML
 - App: https://github.com/przemastro/arqonia-1.0.
  
 > Last two projects for Barclays and GFT: Eagle and Creds. For the second one I used framework written in C# which also used Specflow. I had also chance to create TeamCity jobs and work with Perforce
-- Technology stack: C#, Specflow, TeamCity, Perforce, JiraTemplate
+- Technology Stack: C#, Specflow, TeamCity, Perforce, Jira
 - Framework Template: https://github.com/przemastro/csharp-selenium-framework-template
 
 > I managed group of testers in internal GFT project. We developed application for recruitment called GoForTesting :)
-- Technology stack: Python, Flask, Trello, Git
+- Technology Stack: Python, Flask, Trello, Git
 
 </details>
 
@@ -133,7 +161,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 > My GitHub is created
 
 > Another project for Barclays called Barclaycard - Juno Exp. This time pure Database project. In fact it was SQL Server DataWarehouse:
-- Technology stack: Jira, SQL Server, Git
+- Technology Stack: Jira, SQL Server, Git
 - Framework Template: https://github.com/przemastro/tsql-framework-template
 
 </details>
@@ -149,7 +177,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 - Framework Template: https://github.com/przemastro/java-restassured-framework-template
 
 > Rule CV was my first project for Rule Financial aka GFT. I was testing UI and backend side (SOAP UI). But I also had opportunity to perform some security scans using OWASP ZAP and configure Jenkins:
-- Technology stack: Java, Maven, Selenium, Testng, Jira, Testlink, OWASP ZAP, Jenkins, Git
+- Technology Stack: Java, Maven, Selenium, Testng, Jira, Testlink, OWASP ZAP, Jenkins, Git
 - Framework Template: https://github.com/przemastro/java-selenium-testlink-framework-template
 
 </details>
@@ -159,7 +187,7 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 
 ###
 > MIA was my first SCRUM project during which I learned PL/SQL. I was testing data migration:
-- Technology stack: PL/SQL, HTML, Jira
+- Technology Stack: PL/SQL, HTML, Jira
 - Framework Template: https://github.com/przemastro/plsql-framework-template
 
 </details>
@@ -192,8 +220,8 @@ It is a fully operational proof of concept of astronomical fandom. I learned pyt
 
 ###
 > For my Master Thesis "Frequency analysis and mode identification of Beta Cephei Type star SY Equ" I created code in Matlab (the worst possible choice :)) which searched stellar pulsations in spectroscopic data:
-- <span style="color:#636c76;"> Technology stack: Matlab, LaTex </span>
-- My thesis: [https://github.com/przemastro/master-thesis-polish ](https://github.com/przemastro/master-thesis-polish/blob/master/master-thesis.pdf)
+- Technology Stack: Matlab, LaTex
+- My Thesis: [https://github.com/przemastro/master-thesis-polish ](https://github.com/przemastro/master-thesis-polish/blob/master/master-thesis.pdf)
   
 > I studied Astronomy and Astrophysics at the Katholieke Universiteit Leuven.  
 
