@@ -1,10 +1,10 @@
-# My GitHub CV - status December 2023
+# My GitHub CV - status June 2024
 
 ## Important!
 All repositories listed here were made from scratch after project was ended or my participation in the project was ended and are only demonstration vesrions of frameworks, tools and programms I did for the projects. This is not a client's code! 
 
 
-![Dashboard](https://github.com/przemastro/cv/blob/master/career_122023.png)
+![Dashboard](https://github.com/przemastro/cv/blob/master/career_062024.png)
 
 <details>
   <summary>2025</summary>
@@ -19,7 +19,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 ###
 > I started project for (Confidential) company in the audio industry via Miquido. My first pure JS project.
-- Technology Stack: Javascript, Appium, Allure, GitlabCI, Cypress, Mocha, Saucelabs
+- Technology Stack: Javascript, Appium, Allure, GitlabCI, Cypress, Mocha, Saucelabs, npm
 - Framework Template (Cypress): Ask me for the access
 - Framework Template (Appium): Ask me for the access
 
