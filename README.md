@@ -1,7 +1,9 @@
 # My GitHub CV - status June 2024
 
 ## Important!
-All repositories listed here were made from scratch after project was ended or my participation in the project was ended and are only demonstration vesrions of frameworks, tools and programms I did for the projects. This is not a client's code! 
+- All repositories listed here were made from scratch after project was ended or my participation in the project was ended and are only demonstration vesrions of frameworks, tools and programms I did for the projects. This is not a client's code! 
+
+- If you get 404 ask me for the access!
 
 
 ![Dashboard](https://github.com/przemastro/cv/blob/master/career_062024.png)
@@ -20,15 +22,15 @@ All repositories listed here were made from scratch after project was ended or m
 ###
 > I started project for (Confidential) company in the audio industry via Miquido. My first pure JS project.
 - Technology Stack: Javascript, Appium, Allure, GitlabCI, Cypress, Mocha, Saucelabs, npm
-- Framework Template (Cypress): Ask me for the access
-- Framework Template (Appium): Ask me for the access
+- Framework Template (Cypress): https://github.com/przemastro/javascript-cypress-framework-template
+- Framework Template (Appium): https://github.com/przemastro/javascript-appium-saucelabs-framework-template
 
 > I designed and performed tests of chatGPT usefulness in IT testing.
 - Article: Ask me for the link to the results. 
 
 > I started and completed project for (Confidential) via Miquido in polish Oil and Gas industry. I designed and created tests automation, which consisted of features such as integration with SauceLabs, QR codes scanning etc.
 - Technology Stack: Kotlin, RestAssured, JWT, Appium, Allure, GitlabCI, Cucumber, Saucelabs, Jira
-- Framework Template: Ask me for the access
+- Framework Template: https://github.com/przemastro/kotlin-restassured-jwt-framework-template
 
 </details>
 
@@ -48,8 +50,8 @@ All repositories listed here were made from scratch after project was ended or m
 
 > I started project for (Confidential) via Miquido in Banking sector. I created set of templates for tests automation: Mobile, API, Performance
 - Technology Stack: Kotlin, RestAssured, Locust, Appium, Allure, GitlabCI, Cucumber, Jira
-- Framework Template (Performance): Ask me for the access
-- Framework Template (Wiremock): Ask me for the access
+- Framework Template: https://github.com/przemastro/kotlin-locust-framework-template
+- Framework Template: https://github.com/przemastro/kotlin-wiremock-framework-template
 
 </details>
 
@@ -65,7 +67,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 > Another project another testing framework. This was first fully cloud (AWS) based project and testing solution for London Stock Exchange.
 - Technology Stack: Kotlin, Tableau, AWS S3, Snowflake, Jira, Serenity Reports, Cucumber
-- Framework Template: Ask me for the access
+- Framework Template: https://github.com/przemastro/java-aws-snowflake-tableau-framework-template
 
 > Added some spreadsheets teamplates created for work and private ones:
 - Technology Stack: Google SpreadSheets
@@ -83,7 +85,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 > My first mobile project. I have created my first Test Centre. This was done for Sanoma - Finnish company via Espeo Software.
 - Technology Stack: Kotlin, Open STF, RestAssured, MongoDB, Appium, Jira, Allure, Cucumber
-- Framework Template: Ask me for the access
+- Framework Template: https://github.com/przemastro/test-center
 
 > Added repository with documentation templates:
 - Documentation Repository: https://github.com/przemastro/documentation-templates
@@ -99,7 +101,7 @@ All repositories listed here were made from scratch after project was ended or m
 
 > I created template of a framework for test automation for several applications in Santander bank:
 - Technology Stack: Java, Maven, RestAssuerd, Jenkins, Jira
-- Framework Template: Ask me for the access
+- Framework Template: https://github.com/przemastro/java-soap-rest-framework-template
 
 > I wrote an article on Tableau reports performance
 - Article: https://technology.pl-inetum.group/pl/analiza-wydajnosci-raportow-tableau-zbudowanych-na-sql-server-i-mongodb/
