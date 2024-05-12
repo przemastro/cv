@@ -14,6 +14,9 @@
 ###  
 > I turned 40
 
+> I wrote an article on visual testing, screenshots comparison in Web and Mobile apps
+- Article: In progress...
+
 </details>
 
 <details>
