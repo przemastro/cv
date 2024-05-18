@@ -12,10 +12,11 @@
   <summary>2025</summary>
 
 ###  
-> I turned 40
-
 > I wrote an article on visual testing, screenshots comparison in Web and Mobile apps
 - Article: In progress...
+
+> I wrote an article on devices setup for appium mobile testing
+- Article: https://github.com/przemastro/articles/blob/master/Articles/devices-setup-for-appium-mobile-testing.md
 
 </details>
 
