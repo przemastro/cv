@@ -14,6 +14,8 @@
 ###  
 > In progress...
 
+</details>
+
 <details>
   <summary>2025</summary>
 
