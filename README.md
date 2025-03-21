@@ -24,6 +24,9 @@
 
 > Finally I started building My little house on the praire :)
 
+> I wrote an article on image comparison for appium mobile testing 
+- Article: https://github.com/przemastro/articles/blob/master/Articles/mobile-apps-visual-testing.md
+
 > I wrote an article on devices setup for appium mobile testing
 - Article: https://github.com/przemastro/articles/blob/master/Articles/devices-setup-for-appium-mobile-testing.md
 
