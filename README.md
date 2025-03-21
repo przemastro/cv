@@ -6,7 +6,7 @@
 - If you get 404 ask me for the access!
 
 
-![Dashboard](https://github.com/przemastro/cv/blob/master/career_062024.png)
+![Dashboard](https://github.com/przemastro/cv/blob/master/career_032025.png)
 
 <details>
   <summary>2026</summary>
